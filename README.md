@@ -1,2 +1,0 @@
-"# eokno.mysql" 
-"# eokno.mysql" 
